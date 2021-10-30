@@ -44,11 +44,13 @@ GET CART = https://achmadrizkin.my.id/flutter-store-app/php/select_cart.php
 
 
 ## Preview App
-<img src="https://user-images.githubusercontent.com/75843138/137605682-79803fad-eae2-4de2-b081-a1d3017d16ac.jpg" alt="alt text" width="300" height="600"> <img src="https://user-images.githubusercontent.com/75843138/137605717-e948397e-8cff-4894-9c5e-a7a0ffe26db3.jpg" alt="alt text" width="300" height="600"> <img src="https://user-images.githubusercontent.com/75843138/137605719-4ebf58b1-2ff2-4771-a0aa-c4a8d92517b4.jpg" alt="alt text" width="300" height="600">
+<img src="https://user-images.githubusercontent.com/75843138/139523179-a5278fb0-c25f-4da0-885e-8d4c51088532.jpg" alt="alt text" width="300" height="600"> <img src="https://user-images.githubusercontent.com/75843138/139523180-c7596d37-ab68-4b84-beb8-09daa7b95e1e.jpg" alt="alt text" width="300" height="600"> <img src="https://user-images.githubusercontent.com/75843138/139523183-b1035bba-854b-4e4b-84d5-d048f6805c58.jpg" alt="alt text" width="300" height="600">
 
-<img src="https://user-images.githubusercontent.com/75843138/137605728-2ec493ae-788a-4352-8e0a-88332612886d.jpg" alt="alt text" width="300" height="600"> <img src="https://user-images.githubusercontent.com/75843138/137605732-ba2c56cb-46fb-4af8-b702-ebed71cb66a8.jpg" alt="alt text" width="300" height="600"> <img src="https://user-images.githubusercontent.com/75843138/137605748-7124b37f-e125-4194-a1bf-a70cafcb5eca.jpg" alt="alt text" width="300" height="600">
+<img src="https://user-images.githubusercontent.com/75843138/139523184-4be299c0-a0d2-4b13-92e2-32a872ba6c46.jpg" alt="alt text" width="300" height="600"> <img src="https://user-images.githubusercontent.com/75843138/139523236-1579a2c6-b869-4116-8892-c555260ba8e0.jpg" alt="alt text" width="300" height="600"> <img src="https://user-images.githubusercontent.com/75843138/139523239-b0847c2b-601e-42c1-8daa-145ea8e8f839.jpg" alt="alt text" width="300" height="600">
 
-<img src="https://user-images.githubusercontent.com/75843138/137605751-9c405611-5ad3-4af6-a506-7a69a32771eb.jpg" alt="alt text" width="300" height="600"> <img src="https://user-images.githubusercontent.com/75843138/137606086-4938abc8-313e-4dfe-b91c-aef247e0fff4.jpg" alt="alt text" width="300" height="600">
+<img src="https://user-images.githubusercontent.com/75843138/139523243-da0c5391-5b45-48ec-b0a2-352660f84c79.jpg" alt="alt text" width="300" height="600"> <img src="https://user-images.githubusercontent.com/75843138/139523245-466f1726-cce1-44ac-9f46-cae2f68d01d1.jpg" alt="alt text" width="300" height="600"> <img src="https://user-images.githubusercontent.com/75843138/139523301-82de298a-8d04-4a12-8a34-4f40e78d82b3.jpg" alt="alt text" width="300" height="600">
+
+<img src="https://user-images.githubusercontent.com/75843138/139523306-ab79d8cd-3b4f-405c-8aff-3ad99f50526b.jpg" alt="alt text" width="300" height="600"> <img src="https://user-images.githubusercontent.com/75843138/139523307-eb3cdc2b-22fa-4db6-b865-a7d794fbd01d.jpg" alt="alt text" width="300" height="600"> <img src="https://user-images.githubusercontent.com/75843138/139523310-e0a5fc68-c3af-4ae4-98ef-0ac6c0810b34.jpg" alt="alt text" width="300" height="600">
 
 
 ## Video Preview
