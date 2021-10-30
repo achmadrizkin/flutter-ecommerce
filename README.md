@@ -60,4 +60,7 @@ GET CART = https://achmadrizkin.my.id/flutter-store-app/php/select_cart.php
 <img src="https://user-images.githubusercontent.com/75843138/139523621-23e32baa-407b-48ee-8e6d-ccb33c633316.jpg" alt="alt text" width="300" height="600">
 
 
-## Video Preview
+## Video Preview (Google Drive) 
+https://drive.google.com/file/d/1bSMQULjq4LOJK-MMrXDomnfuNtEJYweF/view?usp=drivesdk
+https://drive.google.com/file/d/1bZXWcGcppuAwcgOJ8NoVG1SqnWM_xeuu/view?usp=drivesdk
+https://drive.google.com/file/d/1baAbBssI6WPK_kq71XpZGNRZyanboN7u/view?usp=drivesdk
