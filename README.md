@@ -1,6 +1,6 @@
 # ✔️ Flutter E-Commerce App
 
-A Flutter app based on the design of the Flutter Music App App, created by *Achmad Rizki Nur Fauzie*,
+A Flutter app based on the design of the Flutter E-Commerce App, created by *Achmad Rizki Nur Fauzie*,
 
 ## Features
 - Responsive Apps
@@ -32,7 +32,7 @@ A Flutter app based on the design of the Flutter Music App App, created by *Achm
     firebase_core: ^1.8.0
 
 ## API
-i use my own API, but u can use it. I make using Laravel. but if u curious, i make a php too. u can use it.
+I make using Laravel. but if u curious, i make a php too. u can use it.
 
 GET PRODUCTS = https://achmadrizkin.my.id/flutter-store-app/php/select_products.php
 
