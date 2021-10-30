@@ -1,7 +1,6 @@
 # ✔️ Flutter E-Commerce App
 
 A Flutter app based on the design of the Flutter Music App App, created by *Achmad Rizki Nur Fauzie*,
-No source code, because all of my data is not my property
 
 ## Features
 - Responsive Apps
