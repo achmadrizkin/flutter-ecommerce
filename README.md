@@ -8,14 +8,13 @@ No source code, because all of my data is not my property
 - Authentication using google
 - CRUD from API
 - Splash Screen Animation
-- Add Cart Product
 - Search product
 - Chatting
 - Check if phone was connected to internet
 - Payment Gateway (Razorpay)
 - Handle back button
 - Validation (cannot buy your own product, cannot chat yourself, cannot add cart your own product)
-- Your product, cart, transaction (its dynamic data, u only can see your own)
+- Your product, cart, transaction (its dynamic data, its change based on your account)
 - and etc.
 
 ## Plugin
@@ -52,5 +51,7 @@ GET CART = https://achmadrizkin.my.id/flutter-store-app/php/select_cart.php
 
 <img src="https://user-images.githubusercontent.com/75843138/139523306-ab79d8cd-3b4f-405c-8aff-3ad99f50526b.jpg" alt="alt text" width="300" height="600"> <img src="https://user-images.githubusercontent.com/75843138/139523307-eb3cdc2b-22fa-4db6-b865-a7d794fbd01d.jpg" alt="alt text" width="300" height="600"> <img src="https://user-images.githubusercontent.com/75843138/139523310-e0a5fc68-c3af-4ae4-98ef-0ac6c0810b34.jpg" alt="alt text" width="300" height="600">
 
+<img src="https://user-images.githubusercontent.com/75843138/139523386-96eece40-4a1e-4b76-8e1e-1deeb1f9254a.jpg" alt="alt text" width="300" height="600"> <img src="https://user-images.githubusercontent.com/75843138/139523388-33f3c29e-c048-495a-8335-8e92c5e6681b.jpg" alt="alt text" width="300" height="600"> <img src="https://user-images.githubusercontent.com/75843138/139523392-3d1b0057-1c9f-481f-8556-b44c94249907.jpg" alt="alt text" width="300" height="600">
 
+<img src="https://user-images.githubusercontent.com/75843138/139523393-c3258946-2939-404f-ba5d-40be1923c8f8.jpg" alt="alt text" width="300" height="600"> 
 ## Video Preview
