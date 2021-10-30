@@ -8,7 +8,7 @@ A Flutter app based on the design of the Flutter E-Commerce App, created by *Ach
 - CRUD from API
 - Splash Screen Animation
 - Search product
-- Chatting
+- Chatting (Firebase)
 - Check if phone was connected to internet
 - Payment Gateway (Razorpay)
 - Handle back button
